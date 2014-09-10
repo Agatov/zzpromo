@@ -1,0 +1,147 @@
+.version.index /* version checker */
+{
+	color: #0000EA;
+	background-color: #92AC32;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 620.9999999999995px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -36px;
+	padding-top: 69px;
+}
+
+#slideshowu150
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 0px;
+	margin-left: 155px;
+	position: relative;
+}
+
+#u154
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u154popup
+{
+	z-index: 3;
+}
+
+#u157
+{
+	z-index: 4;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u239
+{
+	z-index: 13;
+	width: 496px;
+	background-color: transparent;
+	margin-left: 232px;
+	margin-top: 140px;
+	position: relative;
+}
+
+#u244-4
+{
+	z-index: 15;
+	width: 227px;
+	min-height: 51px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	margin-left: 367px;
+	margin-top: 34px;
+	position: relative;
+}
+
+#u242
+{
+	z-index: 6;
+	border-color: #000000;
+	background-color: #232938;
+	padding-bottom: 47px;
+}
+
+#u242_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	position: relative;
+	left: -100px;
+}
+
+#u246-6
+{
+	z-index: 7;
+	width: 520px;
+	min-height: 49px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 53px;
+	left: 320px;
+}
+
+#u242-bw
+{
+	z-index: 6;
+	margin-top: 113px;
+	height: 102px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
